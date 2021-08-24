@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there👋🏻
 
 <!--
 **FatemeZamanian/FatemeZamanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
   - Here is my resume 👉🏻 **[My Linkedin](https://www.linkedin.com/in/fatemezamanian)**.
 
-  - I now teach python programming at the Radman Institute 👩🏻‍🏫 💻
+  - I now teach python programming at the Radman Institute 👩🏻‍🏫
 
   - And I read about object detection 👩🏻‍💻
 
