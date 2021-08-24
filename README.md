@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
   - Here is my resume 👉🏻 **[My Linkedin](https://www.linkedin.com/in/fatemezamanian)**.
 
-  - now i thechin python in radman departmant. ⭐️
+  - I now teach python programming at the Radman Institute 👩🏻‍🏫 💻
 
-  - and study about object detection 
+  - And I read about object detection 👩🏻‍💻
 
 
 </details>
