@@ -15,17 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <details>
-  <summary>Some interesting facts about me!</summary>
+  <summary>about me!</summary>
   <br>
 
-  - In mean time, I create visual and artistic images using photoshop, you can check those are on **[My Instagram](https://www.instagram.com/imdhruv_28/)**.
+  - Here is my resume 👉🏻 **[My Linkedin](https://www.linkedin.com/in/fatemezamanian)**.
 
-  - While Coding, Listening Music and developing useful code. ⭐️
+  - now i thechin python in radman departmant. ⭐️
 
-  - Reading Novels, Action and Adventure, Autobiography & Biography, Comics, Detective and Mystery, Fantasy, Historical Fiction, Romance, Sci-Fi, History books.
+  - and study about object detection 
 
-  - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job.
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=FatemeZamanian&show_icons=true)
 
 </details>
