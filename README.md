@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 
   - And I read about object detection 👩🏻‍💻
 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemeZamanian&layout=compact)](https://github.com/FatemeZamanian/github-readme-stats)
 
 </details>
