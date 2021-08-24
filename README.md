@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemeZamanian&layout=compact)](https://github.com/FatemeZamanian/github-readme-stats)
-
+[![github stats](https://github-readme-stats.vercel.app/api?username=FatemeZamanian)](https://github.com/anuraghazra/github-readme-stats)
 </details>
