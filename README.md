@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
   - I now teach python programming at the Radman Institute 👩🏻‍🏫
 
-  - And I read about object detection 👩🏻‍💻
+  - And I read about deep learning 👩🏻‍💻
 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemeZamanian&layout=compact)](https://github.com/FatemeZamanian/github-readme-stats)
