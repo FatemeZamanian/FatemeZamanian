@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 
   - Here is my resume 👉🏻 **[My Linkedin](https://www.linkedin.com/in/fatemezamanian)**.
 
-  - I now teach python programming at the Rashed Institute 👩🏻‍🏫
-
-  - And I read about deep learning 👩🏻‍💻
 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemeZamanian&layout=compact)](https://github.com/FatemeZamanian/github-readme-stats)
